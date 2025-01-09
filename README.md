@@ -65,7 +65,7 @@ Soft skills:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJdsaOH3LxJisOtkMCdTpqEn-HJmauzZl68A&s" title="postman" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
@@ -104,12 +104,21 @@ Soft skills:
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+<h2>Тестовые артефакты</h2>
+<p> 
+ <ul>
+  <li>  <a href="https://github.com/qatumanov/API">Проверка XML на ошибки</a>  </li>
+<li>  <a href="https://github.com/qatumanov/SOAP">Тестирование SOAP в Postman</a>  </li>
+<li>  <a href="https://github.com/qatumanov/website-creation"> Создание простой веб-страницы </a>   </li>
+<li> <a href="https://github.com/qatumanov/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/qatumanov/NoSQL">MongoDB</a>  </li>
+<li>  <a href="https://github.com/qatumanov/mobile_testing"> Тестирование мобильного приложения/Написание чек-листов и баг-репортов</a>   </li>
+<li> <a href="https://github.com/qatumanov/Bash">Работа с Bash</a>  </li>
+</ul>
+</p>
+<h3 align="center"> Прошу всех посмотреть на мои репозитории! И давайте свяжемся </h3>
+<p align="center">
+<a href= "https://www.linkedin.com/in/qa-tuman/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/tuman_nn"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:tuman_nn@vk.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+</p>
