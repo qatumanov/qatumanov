@@ -116,7 +116,7 @@ Soft skills:
 <li> <a href="https://github.com/qatumanov/Bash">Работа с Bash</a>  </li>
 </ul>
 </p>
-<h3 align="center"> Прошу всех посмотреть на мои репозитории! И давайте свяжемся </h3>
+<h3 align="center"> В тестовых артефактах показана лишь небольшая часть моих работ. Я полностью открыт для любых вопросов или предложений. Давайте свяжемся! </h3>
 <p align="center">
 <a href= "https://www.linkedin.com/in/qa-tuman/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/tuman_nn"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
