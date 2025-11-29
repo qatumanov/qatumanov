@@ -71,6 +71,7 @@
 
 - 📂 Сборник репозиториев с демонстрацией навыков: [skills](https://github.com/qatumanov/skills)
 - 🚀 Коммерческий проект Телеграм бота: [bot_FastPerekup](https://github.com/qatumanov/bot_FastPerekup)
+- ⚙️ GUI AT проект, написанный при прохождении курса автоматизации: [SeleniumProjectEducation](https://github.com/qatumanov/SeleniumProjectEducation)
 
 ### 🧰 Стек и инструменты
 
